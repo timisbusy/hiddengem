@@ -1,0 +1,17 @@
+{
+  "author": "Tim Atkinson <timisbusy@gmail.com> (http://timisbusy.com)",
+  "name": "hiddengem",
+  "description": "require and call find()",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/timisbusy/hiddengem.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
